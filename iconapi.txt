@@ -1,0 +1,3 @@
+https://login.alibaba-inc.com/ssoLogin.htm?APP_NAME=icon-font&CONTEXT_PATH=%2Fapi&CLIENT_VERSION=0.3.7&BACK_URL=http%3A%2F%2Fwww.iconfont.cn%2Fapi%2FsendBucSSOToken.do&CANCEL_CERT=true
+
+http://www.iconfont.cn/api/icon/downloadIcon?type=png&ids=1377788|-1&color=1296db&size=200&ctoken=LANDAHbv2l9xDSVPRIFYicon-font
